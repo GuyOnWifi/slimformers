@@ -17,6 +17,12 @@ Slimformers is a lightweight Python framework for pruning and fine-tuning transf
 - LoRA fine-tuning with auto-inferred target modules
 - Compatible with Hugging Face models and tokenizers
 
+## Installation
+
+```bash
+pip install slimformers
+```
+
 # Quick Start
 
 ## Unified Pruning
